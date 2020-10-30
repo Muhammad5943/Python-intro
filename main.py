@@ -1,0 +1,5 @@
+print("Hello World")
+print("Saya sedang belajar python")
+print("Saya nebggunakan sistem operasi linux")
+print("saya menggunakan vscode")
+print("selamat datang di python")
